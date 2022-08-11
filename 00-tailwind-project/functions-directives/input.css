@@ -20,7 +20,7 @@
 
 .content-area {
   @apply bg-green-300;
-  height: theme('spacing.128');
+  height: theme(spacing.128);
   
 }
 
